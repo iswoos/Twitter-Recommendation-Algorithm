@@ -1,3 +1,8 @@
+# 소스코드 설명 블로그
+https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm
+
+
+
 # Twitter's Recommendation Algorithm
 
 Twitter's Recommendation Algorithm is a set of services and jobs that are responsible for constructing and serving the
